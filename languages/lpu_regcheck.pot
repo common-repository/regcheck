@@ -1,0 +1,159 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Regcheck\n"
+"POT-Creation-Date: 2019-09-21 15:31+0300\n"
+"PO-Revision-Date: 2019-09-21 15:31+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: regcheck.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: regcheck.php:93
+msgid "Save"
+msgstr ""
+
+#: regcheck.php:94
+msgid "Get"
+msgstr ""
+
+#: regcheck.php:95
+msgid "Settings"
+msgstr ""
+
+#: regcheck.php:97
+msgid "Name User"
+msgstr ""
+
+#: regcheck.php:100
+msgid "Registration Number"
+msgstr ""
+
+#: regcheck.php:101
+msgid "VIN"
+msgstr ""
+
+#: regcheck.php:131
+msgid "ABI Code"
+msgstr ""
+
+#: regcheck.php:132
+msgid "Description"
+msgstr ""
+
+#: regcheck.php:133
+msgid "Registration Year"
+msgstr ""
+
+#: regcheck.php:134
+msgid "Car Make"
+msgstr ""
+
+#: regcheck.php:135
+msgid "Car Model"
+msgstr ""
+
+#: regcheck.php:136
+msgid "Engine Size"
+msgstr ""
+
+#: regcheck.php:137
+msgid "Fuel Type"
+msgstr ""
+
+#: regcheck.php:138
+msgid "Make Description"
+msgstr ""
+
+#: regcheck.php:139
+msgid "Model Description"
+msgstr ""
+
+#: regcheck.php:140
+msgid "Immobiliser"
+msgstr ""
+
+#: regcheck.php:141
+msgid "Number Of Seats"
+msgstr ""
+
+#: regcheck.php:142
+msgid "Driver Side"
+msgstr ""
+
+#: regcheck.php:143
+msgid "Transmission"
+msgstr ""
+
+#: regcheck.php:144
+msgid "Number Of Doors"
+msgstr ""
+
+#: regcheck.php:145
+msgid "VehicleInsurance Group"
+msgstr ""
+
+#: regcheck.php:146
+msgid "Vehicle Insurance Group Out Of"
+msgstr ""
+
+#: regcheck.php:147
+msgid "VehicleIdentification Number"
+msgstr ""
+
+#: regcheck.php:148
+msgid "Engine Code"
+msgstr ""
+
+#: regcheck.php:149
+msgid "Engine Number"
+msgstr ""
+
+#: regcheck.php:150
+msgid "Body Style"
+msgstr ""
+
+#: regcheck.php:151
+msgid "Colour"
+msgstr ""
+
+#: regcheck.php:152
+msgid "Registration Date"
+msgstr ""
+
+#: regcheck.php:153
+msgid "Cnit"
+msgstr ""
+
+#: regcheck.php:154
+msgid "Model"
+msgstr ""
+
+#: regcheck.php:155
+msgid "Year"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "Regcheck"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Templines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "templines.com"
+msgstr ""

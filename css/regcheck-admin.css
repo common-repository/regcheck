@@ -1,0 +1,41 @@
+
+.regcheck-block{
+    padding-left: 25px;
+}
+
+.regcheck-form-control{
+    margin: 5px 0;
+}
+
+.col-reg-option{
+    padding-bottom: 5px;
+}
+
+.regcheck-settings .button{
+    min-width: 300px;
+    margin-top: 25px;
+}
+
+.col-reg-field {
+    margin: 0 0 30px 0;
+}
+
+.form-key {
+    width: 400px;
+}
+
+.col-reg-field h3 {
+    font-size: 14px;
+}
+
+.col-reg-field span a{
+    display: inline-block;
+    width: 100%;
+}
+.ad-preview-img-container{
+    margin: 40px;
+}
+
+.ad-preview-img-container a img{
+    padding: 0 10px;
+}
